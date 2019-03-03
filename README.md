@@ -1,4 +1,5 @@
 # M6800MachineInstructions
+Class lab
 The Motorola 68000 family of CPUs is a Complex Instruction Set Computer (CISC).
 
 ### Goal
